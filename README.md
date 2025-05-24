@@ -3,10 +3,10 @@
 - 🌱 I’m currently learning: Well, everything, I am just a kid in this world
 - 💞️ I’m looking to collaborate on: Uh...work?
 - 📫 How to reach me:
-Step 1: Create an altar and summon the most handsome man in the world!!!
-Or just these link below:
-    Fb: facebook.com/khoadtvdvt
-    Linkedln: www.linkedin.com/in/mai-khoa-232573367
+- Step 1: Create an altar and summon the most handsome man in the world!!!
+- Or just these link below:
+- Fb: facebook.com/khoadtvdvt
+- Linkedln: www.linkedin.com/in/mai-khoa-232573367
 - 😄 Pronouns: Handsome man
 - ⚡ Fun fact: I am not that handsome
 
