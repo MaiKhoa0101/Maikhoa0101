@@ -154,7 +154,7 @@ Diễn đàn học thuật với monitoring stability
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maikhoa2015@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MaiKhoa0101)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Facebook](https://img.shields.io/badge/Facebook)](https://web.facebook.com/khoadtvdvt/)
 
 </div>
 
@@ -166,9 +166,6 @@ Diễn đàn học thuật với monitoring stability
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 👀 Profile Views
-
-![Visitor Count](https://profile-counter.glitch.me/MaiKhoa0101/count.svg)
 
 ---
 
