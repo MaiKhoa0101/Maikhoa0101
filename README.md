@@ -102,7 +102,7 @@ val developer = Developer(
 ### 🅿️ Parking System
 **PM & Android Developer**
 
-App quản lý bãi đỗ xe mobile với rapid-prototype
+App quản lý bãi đỗ xe
 
 **Highlights:**
 - ⚡ Sprint 2 tuần Agile
@@ -116,7 +116,7 @@ App quản lý bãi đỗ xe mobile với rapid-prototype
 <td width="50%">
 
 ### 💬 IT Forum
-**Team Leader**
+**Team Leader & Full-stack Developer**
 
 Diễn đàn học thuật với monitoring stability
 
@@ -130,11 +130,9 @@ Diễn đàn học thuật với monitoring stability
 
 ### 🚀 More Projects Coming...
 
-Đang nghiên cứu và phát triển thêm nhiều dự án thú vị!
-
 **Areas of Interest:**
-- Healthcare Tech
-- IoT Integration
+- Android Tech
+- Glass translation for deaf peoples
 - AI-powered Apps
 
 </td>
