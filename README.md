@@ -21,99 +21,62 @@ val developer = Developer(
     passion = "Building seamless mobile experiences"
 )
 ```
-
-🎓 **Sinh viên IT năm cuối** với niềm đam mê xây dựng trải nghiệm mobile mượt mà bằng **Kotlin** và **Jetpack Compose**
-
-💡 **Background đa dạng**: Từ Full-stack Development đến Team Leadership, kết nối giữa hệ thống backend phức tạp và giao diện mobile thân thiện
-
-⚡ **Fun fact**: Kinh nghiệm từ Game Dev đến IoT Hardware giúp mình tối ưu hiệu suất app và xử lý hardware sensors hiệu quả
-
----
-
-## 🛠️ Tech Stack
-
-<details open>
-<summary><b>📱 Mobile Development</b></summary>
-<br>
-
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Room](https://img.shields.io/badge/Room_DB-4285F4?style=for-the-badge&logo=sqlite&logoColor=white)
-![Hilt](https://img.shields.io/badge/Hilt_DI-2C2C2C?style=for-the-badge&logo=android&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>⚙️ Backend Development</b></summary>
-<br>
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-D91846?style=for-the-badge&logo=database&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>🌐 Web Development</b></summary>
-<br>
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>🎮 Game Development</b></summary>
-<br>
-
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>🔌 IoT Development</b></summary>
-<br>
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>🤖 AI & Others</b></summary>
-<br>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=google&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-00B2FF?style=for-the-badge&logo=google&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</details>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaiKhoa0101&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaiKhoa0101&layout=compact&theme=tokyonight&border_radius=10"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaiKhoa0101&theme=tokyonight&border_radius=10" alt="GitHub Streak"/>
-</div>
+💻 Tech Stack
+📱 Mobile Developer
+<p align="left">
+  <a href="https://kotlinlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" /></a>
+  <a href="https://developer.android.com/studio" target="_blank"><img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" /></a>
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" /></a>
+  <a href="https://developer.android.com/jetpack/compose" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" width="48" height="48" alt="Jetpack Compose" /></a>
+  <a href="https://developer.android.com/training/data-storage/room" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="48" height="48" alt="Room DB" /></a>
+  <a href="https://dagger.dev/hilt/" target="_blank"><img src="https://avatars.githubusercontent.com/u/29370304?s=200&v=4" width="48" height="48" alt="Hilt" /></a>
+</p>
+⚙️ Backend Developer
+<p align="left">
+  <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
+  <a href="https://nestjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" /></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /></a>
+  <a href="https://redis.io/" target="_blank"><img src="https://skillicons.dev/icons?i=redis" alt="Redis" /></a>
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" /></a>
+  <a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" /></a>
+  <a href="https://neo4j.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/neo4j.svg" width="48" height="48" alt="Neo4j" /></a>
+  <a href="https://qdrant.tech/" target="_blank"><img src="https://avatars.githubusercontent.com/u/73504361?s=200&v=4" width="48" height="48" alt="Qdrant" /></a>
+  <a href="https://cloudinary.com/" target="_blank">
+    <svg width="56" height="56" xmlns="http://www.w3.org/2000/svg">
+      <rect x="2" y="2" width="52" height="52" rx="8" fill="white" stroke="#3448C5" stroke-width="2"/>
+      <image href="https://res.cloudinary.com/cloudinary-marketing/image/upload/w_40,h_40/creative_source/Logo/Cloud%20Glyph/cloudinary_cloud_glyph_blue.png" x="8" y="8" width="40" height="40"/>
+    </svg>
+  </a>
+</p>
+🌐 Web Developer
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
+  <a href="https://www.php.net/" target="_blank"><img src="https://skillicons.dev/icons?i=php" alt="PHP" /></a>
+</p>
+🎮 Game Developer
+<p align="left">
+  <a href="https://unity.com/" target="_blank"><img src="https://skillicons.dev/icons?i=unity" alt="Unity" /></a>
+  <a href="https://www.blender.org/" target="_blank"><img src="https://skillicons.dev/icons?i=blender" alt="Blender" /></a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://skillicons.dev/icons?i=cs" alt="C#" /></a>
+</p>
+🔌 IoT Developer
+<p align="left">
+  <a href="https://cplusplus.com/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" /></a>
+  <a href="https://www.arduino.cc/" target="_blank"><img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" /></a>
+</p>
+🤖 AI & Others
+<p align="left">
+  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
+  <a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java" alt="Java" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
+  <a href="https://ai.google.dev/gemini-api" target="_blank"><img src="https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4735304ff6292a690345.svg" width="48" height="48" alt="Gemini API" /></a>
+  <a href="https://huggingface.co/" target="_blank"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48" height="48" alt="Hugging Face" /></a>
+  <a href="https://www.notion.so/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" width="48" height="48" alt="Notion" /></a>
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://skillicons.dev/icons?i=ps" alt="Photoshop" /></a>
+</p>
 
 ---
 
@@ -186,19 +149,6 @@ Diễn đàn học thuật với monitoring stability
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaiKhoa0101&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
 </div>
 
----
-
-## 🎯 Current Goals
-
-```mermaid
-graph LR
-    A[Learn Advanced Android] --> B[Master Jetpack Compose]
-    B --> C[Build Healthcare Apps]
-    C --> D[Integrate AI & IoT]
-    D --> E[Create Impact]
-```
-
----
 
 ## 📫 Kết Nối Với Mình
 
