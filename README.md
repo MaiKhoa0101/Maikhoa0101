@@ -154,7 +154,7 @@ Diễn đàn học thuật với monitoring stability
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maikhoa2015@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MaiKhoa0101)
-[![Facebook](https://img.shields.io/badge/Facebook)](https://web.facebook.com/khoadtvdvt/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://web.facebook.com/khoadtvdvt/)
 
 </div>
 
