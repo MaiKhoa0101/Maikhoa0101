@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Xin chào, mình là Mai Nguyễn Đăng Khoa!
+# 👋 Alo, my name is Mai Khoa
 
 ### 📱 Junior Android Developer
 
@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 Về mình
+## 🚀 Overview
 
 ```kotlin
 val developer = Developer(
@@ -80,7 +80,7 @@ val developer = Developer(
 
 ---
 
-## 🏆 Dự Án Nổi Bật
+## 🏆 Project
 
 <table>
 <tr>
@@ -148,7 +148,7 @@ Diễn đàn học thuật với monitoring stability
 </div>
 
 
-## 📫 Kết Nối Với Mình
+## 📫 Contact
 
 <div align="center">
 
