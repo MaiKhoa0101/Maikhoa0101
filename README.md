@@ -80,71 +80,89 @@ val developer = Developer(
 
 ---
 
-## 🏆 Project
+🏆 Projects
+<table> <tr> <td width="50%">
+🎬 WannaWatch
 
-<table>
-<tr>
-<td width="50%">
+Team Leader & Full-stack Developer
+
+Ứng dụng xem phim trực tuyến với hệ thống quản lý nội dung và trải nghiệm người dùng tối ưu.
+
+Highlights:
+
+🔎 Lọc & tìm kiếm phim nâng cao
+
+▶️ Streaming player tích hợp
+
+🤖 Hệ thống gợi ý phim
+
+👥 Tính năng xem cùng nhau (watch party)
+
+🔗 Repository:
+https://github.com/MaiKhoa0101/MovieStreaming
+
+</td> <td width="50%">
   
-### 🏥 WannaWatch
-**Team Leader & Full-stack Developer**
+🏥 HelloDoc
 
-Ứng dụng xem phim trực tuyến (không public đâu vì nó là vi phạm pháp luật, muốn dùng thì liên lạc riêng)
+Team Leader & Full-stack Developer
 
-**Highlights:**
-- Lọc phim
-- Xem phim trực tuyến
-- Gợi ý phim
-- Xem cùng nhau
+Nền tảng diễn đàn sức khỏe & đặt lịch bác sĩ toàn diện, tập trung vào khả năng tiếp cận cho mọi người.
 
-</td>
-<td width="50%">
-  
-### 🏥 HelloDoc
-**Team Leader & Full-stack Developer**
+Highlights:
 
-Ứng dụng diễn đàn sức khỏe & đặt lịch bác sĩ toàn diện, hỗ trợ người khuyết tật
+🤟 Dịch ngôn ngữ ký hiệu 3D
 
-**Highlights:**
-- 🤟 Dịch ngôn ngữ ký hiệu 3D
-- 🤖 Tích hợp AI
-- ♿ Accessibility-first design
+🤖 Tích hợp AI hỗ trợ tư vấn
 
-</td>
-<td width="50%">
+♿ Accessibility-first design
 
-### 🅿️ Parking System
-**PM & Android Developer**
+📅 Hệ thống đặt lịch thông minh
 
-App quản lý bãi đỗ xe
+🔗 Repository:
+https://github.com/MaiKhoa0101/HealthCareSystem
 
-**Highlights:**
-- ⚡ Sprint 2 tuần Agile
-- 📱 Modern Android Architecture
-- 🎯 Real-time parking status
+</td> </tr> <tr> <td width="50%">
+🅿️ Parking System
 
-</td>
-</tr>
+PM & Android Developer
 
-<tr>
-<td width="50%">
+Ứng dụng quản lý bãi đỗ xe theo thời gian thực.
 
-### 💬 IT Forum
-**Team Leader & Full-stack Developer**
+Highlights:
 
-Diễn đàn học thuật với monitoring stability
+⚡ Phát triển theo Agile (Sprint 2 tuần)
 
-**Highlights:**
-- 📊 Firebase Analytics
-- 🐛 Crashlytics Integration
-- 👥 Community-driven features
+📱 Modern Android Architecture (MVVM, Clean Architecture)
 
-</td>
-<td width="50%">
+📡 Cập nhật trạng thái chỗ đỗ theo thời gian thực
 
-</td>
-</tr>
-</table>
+🔐 Quản lý người dùng & phân quyền
+
+🔗 Repository:
+https://github.com/EzLife-EZL/ParkingSystem
+
+</td> <td width="50%">
+💬 IT Forum
+
+Team Leader & Full-stack Developer
+
+Diễn đàn học thuật dành cho sinh viên IT với hệ thống theo dõi độ ổn định.
+
+Highlights:
+
+📊 Firebase Analytics
+
+🐛 Crashlytics Integration
+
+👥 Tính năng cộng đồng
+
+🔔 Hệ thống thông báo thời gian thực
+
+🔗 Repository:
+https://github.com/MaiKhoa0101/ITForum
+
+</td> </tr> </table>
 
 ---
 
