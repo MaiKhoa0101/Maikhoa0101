@@ -84,9 +84,9 @@ val developer = Developer(
 <table> <tr> <td width="50%">
 🎬 WannaWatch
 
-Team Leader & Full-stack Developer
+Solo Developer
 
-Ứng dụng xem phim trực tuyến với hệ thống quản lý nội dung và trải nghiệm người dùng tối ưu.
+Ứng dụng xem phim trực tuyến (không public được đâu vì nó vi phạm luật bản quyền và 7749 thứ luật, này dự án xài nội bộ, có nhu cầu thì ibox riêng"
 
 Highlights:
 
