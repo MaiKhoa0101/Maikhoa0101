@@ -85,7 +85,21 @@ val developer = Developer(
 <table>
 <tr>
 <td width="50%">
+  
+### 🏥 WannaWatch
+**Team Leader & Full-stack Developer**
 
+Ứng dụng xem phim trực tuyến (không public đâu vì nó là vi phạm pháp luật, muốn dùng thì liên lạc riêng)
+
+**Highlights:**
+- Lọc phim
+- Xem phim trực tuyến
+- Gợi ý phim
+- Xem cùng nhau
+
+</td>
+<td width="50%">
+  
 ### 🏥 HelloDoc
 **Team Leader & Full-stack Developer**
 
@@ -127,13 +141,6 @@ Diễn đàn học thuật với monitoring stability
 
 </td>
 <td width="50%">
-
-### 🚀 More Projects Coming...
-
-**Areas of Interest:**
-- Android Tech
-- Glass translation for deaf peoples
-- AI-powered Apps
 
 </td>
 </tr>
