@@ -95,6 +95,7 @@ Highlights:
 
 ▶️ Streaming player tích hợp
 
+ON DEVELOPING:
 🤖 Hệ thống gợi ý phim
 
 👥 Tính năng xem cùng nhau (watch party)
