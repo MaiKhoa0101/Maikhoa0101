@@ -1,6 +1,7 @@
 <div align="center">
   
 # 👋 Alo, my name is Mai Khoa
+And [here is my CV](https://www.overleaf.com/read/kqfbvdyvvhfz#d36c28)
 
 ### 📱 Android Developer
 
