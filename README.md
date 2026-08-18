@@ -22,7 +22,6 @@ val developer = Developer(
     passion = "Building seamless mobile experiences"
 )
 ```
-💻 Tech Stack
 📱 Mobile Developer
 <p align="left">
   <a href="https://kotlinlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" /></a>
