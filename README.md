@@ -107,7 +107,7 @@ ON DEVELOPING:
   
 🏥 HelloDoc
 
-Team Leader & Full-stack Developer
+Full-stack Developer
 
 Nền tảng diễn đàn sức khỏe & đặt lịch bác sĩ toàn diện, tập trung vào khả năng tiếp cận cho mọi người.
 
@@ -127,7 +127,7 @@ https://github.com/MaiKhoa0101/HealthCareSystem
 </td> </tr> <tr> <td width="50%">
 🅿️ Parking System
 
-PM & Android Developer
+Android Developer
 
 Ứng dụng quản lý bãi đỗ xe theo thời gian thực.
 
@@ -147,7 +147,7 @@ https://github.com/EzLife-EZL/ParkingSystem
 </td> <td width="50%">
 💬 IT Forum
 
-Team Leader & Full-stack Developer
+Full-stack Developer
 
 Diễn đàn học thuật dành cho sinh viên IT với hệ thống theo dõi độ ổn định.
 
